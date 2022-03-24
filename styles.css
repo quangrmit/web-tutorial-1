@@ -1,0 +1,17 @@
+header {
+    background: red;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#left {
+    float: left;
+    min-width: 200px;
+    width: 30%;
+}
+#right {
+    float: right;
+}
